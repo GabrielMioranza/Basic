@@ -1,5 +1,5 @@
 # Basic
-Source of basic codes who i use to study
+Basic source codes wich I use to study
 
 
 # Desec
